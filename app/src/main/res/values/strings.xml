@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lottery Generator</string>
+    <string name="generate">Generate</string>
+</resources>
